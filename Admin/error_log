@@ -1,0 +1,16 @@
+[27-Apr-2023 10:09:18 Asia/Calcutta] PHP Notice:  Undefined index: type1 in /home/vysoxnyu/public_html/ez-plug/Admin/product.php on line 46
+[27-Apr-2023 10:09:26 Asia/Calcutta] PHP Notice:  Undefined index: type1 in /home/vysoxnyu/public_html/ez-plug/Admin/product.php on line 46
+[27-Apr-2023 10:09:29 Asia/Calcutta] PHP Notice:  Undefined index: type1 in /home/vysoxnyu/public_html/ez-plug/Admin/product.php on line 46
+[27-Apr-2023 10:15:23 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:29:04 Asia/Calcutta] PHP Notice:  Undefined index: type1 in /home/vysoxnyu/public_html/ez-plug/Admin/product.php on line 46
+[27-Apr-2023 15:29:27 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:35:57 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:36:34 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:40:31 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:43:14 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:44:48 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:47:02 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:49:25 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:50:41 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:51:42 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
+[27-Apr-2023 15:53:26 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vysoxnyu/public_html/ez-plug/Admin/get_sub_cat.php on line 9
